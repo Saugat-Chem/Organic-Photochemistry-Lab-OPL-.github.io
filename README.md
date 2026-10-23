@@ -1,2 +1,2 @@
-# Saugat-Chem.github.io
+# Organic Photochemistry Lab (OPL).github.io
 by Profession Chemist and by Choice Photochemist
